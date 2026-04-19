@@ -124,7 +124,7 @@ document.querySelector("body > main > h3").innerHTML = 'Thanks to <a href="https
 
                         document.getElementById('I~woke~up~next~to~...-gm-card').remove()
                         document.getElementById('Five~Nights~at~Eps...-gm-card').remove()
-
+                        //remove the questinablle games
 
                         document.getElementById('Soundboard-gm-card').addEventListener('click', () => {
                             alert("PLEASE DONT ABUSE THE SOUNDBOARD IN CLASS \n \n pls... it isn't funny")
